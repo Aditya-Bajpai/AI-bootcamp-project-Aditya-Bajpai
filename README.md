@@ -1,4 +1,4 @@
-# This id the project of Aditya Bajpai for AI bootcamp
+# This is the project of Aditya Bajpai for AI bootcamp
 
 
 ### In the project we have a website which classifies the likelihood of a person getting diabetes based on a various set of input features
